@@ -1,0 +1,1 @@
+c:\users\admin\documents\visual studio 2015\Projects\TechTask\TechTask\bin\Debug\TechTask.exe.config
