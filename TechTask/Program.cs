@@ -82,8 +82,8 @@ namespace TechTask
                     {
                         list.PopFront();
                     }
-                    else if (args[0] == "isemty") {
-                        Console.WriteLine("   {}", list.isempty());
+                    else if (args[0] == "isempty") {
+                        Console.WriteLine("   {0}", list.isempty());
                     }
                     else if (args.Length > 1)
                     {
