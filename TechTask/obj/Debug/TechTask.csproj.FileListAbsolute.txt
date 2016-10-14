@@ -1,1 +1,6 @@
 c:\users\admin\documents\visual studio 2015\Projects\TechTask\TechTask\bin\Debug\TechTask.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\techtask\TechTask\bin\Debug\TechTask.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\techtask\TechTask\bin\Debug\TechTask.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\techtask\TechTask\obj\Debug\TechTask.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\techtask\TechTask\obj\Debug\TechTask.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\techtask\TechTask\obj\Debug\TechTask.pdb
